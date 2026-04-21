@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset provides neural and behavioural annotation data from the paper: \"Causal evidence of a line attractor encoding an affective state\". Data is stored in the NWB format and contains GCaMP traces, behavioural annotation (timing of behaviour), low-dimensional latent factors from dynamical models and other metadata.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Nair, Aditya"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
